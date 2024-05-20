@@ -3,12 +3,12 @@
     <channel>
         <title>RepairCalUpdateTest</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Mon, 20 May 2024 11:58:02 +0200</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Mon, 20 May 2024 12:14:04 +0200</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/RepairCalUpdateTest.0.9.dmg" length="807651" type="application/octet-stream" sparkle:edSignature="CnI0uNhfWGQqvMtIIkbj6YmMh/y1eJaIJZ5nmEfFBtjFX8GJEXjxXbBqHaYrZ7Ij+czY0uGKgGlggVf6PyqyCQ=="/>
+            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/RepairCalUpdateTest.1.1.dmg" length="807637" type="application/octet-stream" sparkle:edSignature="Li3zNSecTdijVCJX74HpjOegc9tKuQqfJ8Rs9+KiiT1KbDyntnUw/pWkD2pvpi3wQuP91fnv/RKth5w/VTj+AA=="/>
         </item>
     </channel>
 </rss>
