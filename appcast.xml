@@ -3,17 +3,17 @@
     <channel>
         <title>Repair Calculator</title>
         <item>
-            <title>1.4.1</title>
-            <pubDate>Wed, 07 Aug 2024 15:12:09 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <title>1.4.2</title>
+            <pubDate>Thu, 29 Aug 2024 11:52:30 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
 <description><![CDATA[
             <h2>New Features</h2>
-            Minor updates
+            - Making the app ready for macOS Sequoia
             ]]>
             </description>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.4.1.dmg" length="4678290" type="application/octet-stream" sparkle:edSignature="bBKIfT/qGGT/jI1cXboIHdTl1jfEmPXvC5ih9SDV3uT6/C4qpqtZ8ekAN0FIw4cvLq6wOUSDUX9dUFo5jOJWDQ=="/>
+            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.4.2.dmg" length="4676403" type="application/octet-stream" sparkle:edSignature="HdexndMGGv4pUxifOiCfGJMFv/RMtMN5aloAN2AzsPzNh8gtxZCCipBGbbnNCdJvRbejbGR4t5PycClh3GJrAA=="/>
         </item>
     </channel>
 </rss>
