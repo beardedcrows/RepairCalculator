@@ -1,19 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Repair Calculator</title>
+        <title>Repair calculator</title>
         <item>
-            <title>1.4.2</title>
-            <pubDate>Thu, 29 Aug 2024 11:52:30 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-<description><![CDATA[
-            <h2>New Features</h2>
-            - Making the app ready for macOS Sequoia
-            ]]>
-            </description>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <title>1.4.3</title>
+            <pubDate>Fri, 04 Oct 2024 14:47:24 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.4.2.dmg" length="4676403" type="application/octet-stream" sparkle:edSignature="HdexndMGGv4pUxifOiCfGJMFv/RMtMN5aloAN2AzsPzNh8gtxZCCipBGbbnNCdJvRbejbGR4t5PycClh3GJrAA=="/>
+            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.4.3.dmg" length="4787354" type="application/octet-stream" sparkle:edSignature="pE5qnNPG+Yjra24ugOPZe3CaaiVXrxrasq5h5teQrYh/ZZIDsLu5MMh8iCbOVcYiBffuDJmrS9LFXYpSXI1YDA=="/>
         </item>
     </channel>
 </rss>
