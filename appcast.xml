@@ -3,12 +3,12 @@
     <channel>
         <title>Repair calculator</title>
         <item>
-            <title>1.4.4</title>
-            <pubDate>Tue, 29 Oct 2024 16:31:14 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.4.4.dmg" length="5149174" type="application/octet-stream" sparkle:edSignature="chqiWLHKSKr7a+b1Hry2iHbI6GviOv6XM+ClYdLVg4qb0SZa30tub9/RA6PdRQXwD81Jod2oz8DG1zM7VTkEAA=="/>
+            <title>1.4.5</title>
+            <pubDate>Thu, 31 Oct 2024 10:59:17 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.4.5.dmg" length="5152555" type="application/octet-stream" sparkle:edSignature="9EGI3hvMN/64ClpOZtqRkVVhYbdn8HypkVJ/3ttxIaxwdnxEozWAZrL/pDBmYPG7LU8twQ+a7FeOxUtGX8cTCw=="/>
         </item>
     </channel>
 </rss>
