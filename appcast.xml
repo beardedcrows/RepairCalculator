@@ -3,12 +3,19 @@
     <channel>
         <title>Repair calculator</title>
         <item>
-            <title>1.5</title>
-            <pubDate>Mon, 27 Jan 2025 11:44:16 +0100</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <title>1.5.1</title>
+            <pubDate>Tue, 06 May 2025 14:43:34 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+<description><![CDATA[
+            <h2>New Features</h2>
+	    <ul>
+	    <li>Fixed a bug where wrong price deduction where applied</li>
+	    </ul>
+            ]]>
+            </description>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.5.dmg" length="5225901" type="application/octet-stream" sparkle:edSignature="1XLxyrvPcBGTcoJJenP2p9tZL2nbiSVTIkrBQb0jKSk5ZXemV1F8ylj3t/VTUXyMb1kxG2pXNNJZELtnBKtJCw=="/>
+            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.calculator.1.5.1.dmg" length="5245953" type="application/octet-stream" sparkle:edSignature="kmEuhghLTQOSxhEBRPj+IQoA8+2m8l/Erz+i2QnIeRRszqFhihv87GTNtoK5Ki3vGVIiUXfR5mKOJl0TTyfwDQ=="/>
         </item>
     </channel>
 </rss>
