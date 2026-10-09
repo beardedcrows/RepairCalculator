@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Repair Calculator</title>
+        <title>Repair calculator</title>
         <item>
-            <title>1.5.4</title>
-            <pubDate>Wed, 16 Sep 2026 10:44:59 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <title>1.5.5</title>
+            <pubDate>Fri, 09 Oct 2026 12:48:15 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.Calculator.1.5.4.dmg" length="5402352" type="application/octet-stream" sparkle:edSignature="8HyrzrdVUykIMpvAQoog6bWa70hdiM3GK1RqeDDZu1ga2hzFfUjv8AXdPIjjj5fr8bUN/3u6qdt3XnYwMNSCAg=="/>
+            <enclosure url="https://github.com/beardedcrows/RepairCalculator/releases/download/prod/Repair.Calculator.1.5.5.dmg" length="5410288" type="application/octet-stream" sparkle:edSignature="TdbJqIn6tFaQE8DmBmxqMSIC4bvaAaLNI23/LlfmYv/eL4R//DDhwqY2EgLtY0Pu43DXZCue9d5ZdtJ4K7mvBw=="/>
         </item>
     </channel>
 </rss>
